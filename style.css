@@ -1,0 +1,10 @@
+@supports (-webkit-text-stroke: 2px black) {
+  .outline {
+    -webkit-text-stroke: 3px black;
+    -webkit-text-fill-color: white;
+  }
+}
+
+a {
+  text-decoration: underline !important;
+}
